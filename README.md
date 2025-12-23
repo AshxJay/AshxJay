@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Ashutosh S!
 
-<!--
-**AshxJay/AshxJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on backend development and cloud-ready applications.
 
-Here are some ideas to get you started:
+### What I work with
+- JavaScript (Node.js, Express)
+- MongoDB & Mongoose
+- REST API design
+- Git & GitHub
+- AWS fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm building
+- Backend APIs with authentication & validation
+- Cloud-deployed services
+- Real-world, production-style projects
+
+### Let’s connect
+- LinkedIn: https://www.linkedin.com/in/ashutosh-s-22a1383a1/
