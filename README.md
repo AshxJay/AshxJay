@@ -3,11 +3,11 @@
 Computer Science student focused on backend development and cloud-ready applications.
 
 ### What I work with
+- AWS fundamentals
 - JavaScript (Node.js, Express)
 - MongoDB & Mongoose
 - REST API design
 - Git & GitHub
-- AWS fundamentals
 
 ### What I'm building
 - Backend APIs with authentication & validation
