@@ -36,25 +36,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🛡️ ClaimIQ — Cloud-Based Insurance Claim Management System
-
-> A full-stack, cloud-native platform where policyholders submit claims and adjusters review them — built entirely on AWS.
-
-| Layer | Technology |
-|---|---|
-| 🎨 Frontend | React + TypeScript, hosted on S3 |
-| ⚙️ Backend | Node.js + Express, running on ECS Fargate |
-| 🗄️ Database | Amazon DynamoDB |
-| 🔐 Auth | Amazon Cognito (JWT + role management) |
-| 📁 Storage | Amazon S3 (encrypted document storage) |
-| 📧 Notifications | Amazon SES |
-| 📊 Monitoring | Amazon CloudWatch |
-
-[![ClaimIQ Repo](https://img.shields.io/badge/View_Project-232F3E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshxJay/ClaimIQ)
-
----
 
 ## 📚 Currently Learning
 
